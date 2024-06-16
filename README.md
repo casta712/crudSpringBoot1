@@ -25,7 +25,7 @@ Este es un proyecto CRUD básico desarrollado en Spring Boot que gestiona entida
     Modifica el archivo `src/main/resources/application.properties` con las configuraciones de tu base de datos:
 
     ```properties
-    spring.datasource.url=jdbc:mysql://localhost:3306/nombre_base_de_datos
+    spring.datasource.url=jdbc:mysql://localhost:
     spring.datasource.username=usuario
     spring.datasource.password=contraseña
     spring.jpa.hibernate.ddl-auto=update
